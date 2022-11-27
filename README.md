@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=Hello%2C+I+am+Bibek+Dhungana)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=Hello%2C+I+am+Bibek+Dhungana)](https://git.io/typing-svg)\
 
 <h2 align="center">A passionate full-stack developer.</h2>
 
@@ -8,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.bibekdhungana.com/projects](https://www.bibekdhungana.com/projects)
 
-- 📫 How to reach me **Dhunganabibek2016@gmail.com**
+- 📫 Reach me at **Dhunganabibek2016@gmail.com**
 
 - 📄 Know about my experiences [https://www.bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
 
