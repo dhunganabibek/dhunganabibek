@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=Hello%2C+I+am+Bibek+Dhungana)](https://git.io/typing-svg)
 
-<h2 align="center">A passionate full-stack developer.</h2>
+<h2>A passionate full-stack developer.</h2>
 
 - 🔭 I’m currently working in **HCSS**
 
@@ -15,9 +15,7 @@
 - ⚡ Fun fact **I love coding.**
 
 
-
-<h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
-<hr>
+<h2 style="color:#36BCF7FF">Connect with me:</h2>
 <div align="center">
     <a href="https://github.com/dhunganabibek" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px;" />
@@ -36,7 +34,6 @@
 <div style="display:flex;flex-wrap:wrap; gap:10px; justify-content:center;">
     <div>
         <h2 align="center" style="color:#36BCF7FF">Languages and Tools:</h2>
-        <hr>
         <h3 align="center" style="color:#17cf97">Frontend</h3>
         <div align="center" style="width:60%; margin:auto;">
             <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -89,15 +86,7 @@
     </div>
 </div>
 
-
-
-
-
 <br/>
-<br/>
-
-
-
 <h2 align="center" style="color:#36BCF7FF">GitHub Stats</h2> 
 <hr>
 
@@ -112,6 +101,4 @@
 
             
 
-
----
 
