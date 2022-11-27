@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=Hello%2C+I+am+Bibek+Dhungana)](https://git.io/typing-svg)
 
-<h2>A passionate full-stack developer.</h2>
+<h2 align="center"A passionate full-stack developer.</h2>
 
 - 🔭 I’m currently working in **HCSS**
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact **I love coding.**
 
 
-<h2 style="color:#36BCF7FF">Connect with me:</h2>
+<h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
 <div align="center">
     <a href="https://github.com/dhunganabibek" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin: 5px;" />
@@ -90,11 +90,12 @@
 <h2 align="center" style="color:#36BCF7FF">GitHub Stats</h2> 
 <hr>
 
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
+<div align="center">
     <div style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
         <div valign="top" width="50%">
             <img src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&count_private=true&hide_border=true" align="center" />
         </div>
+        <br>
         <div valign="top" width="50%">
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunganabibek&" alt="dhunganabibek" />
         </div>
