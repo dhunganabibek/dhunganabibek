@@ -90,15 +90,17 @@
 <h2 align="center" style="color:#36BCF7FF">GitHub Stats</h2> 
 <hr>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
-    <div valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&count_private=true&hide_border=true" align="center" />
-    </div>
-    <div valign="top" width="50%">
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunganabibek&" alt="dhunganabibek" />
+<div align="center">
+    <div style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
+        <div valign="top" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&count_private=true&hide_border=true" align="center" />
+        </div>
+        <div valign="top" width="50%">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunganabibek&" alt="dhunganabibek" />
+        </div>
     </div>
 </div>
-
             
+
 
 
