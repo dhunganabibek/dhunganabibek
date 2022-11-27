@@ -90,7 +90,7 @@
 <h2 align="center" style="color:#36BCF7FF">GitHub Stats</h2> 
 <hr>
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
     <div style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
         <div valign="top" width="50%">
             <img src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&count_private=true&hide_border=true" align="center" />
