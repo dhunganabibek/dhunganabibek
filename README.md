@@ -27,13 +27,8 @@
 </div>  
 </p>
 
-<br/>
-<table>
-    <tr>
-        <td></td>
-        <td>
-    </tr>
-</table>
+
+
 <div style="display:flex;flex-wrap:wrap; gap:10px; justify-content:center;">
     <div>
         <h2 align="center" style="color:#36BCF7FF">Languages and Tools:</h2>
@@ -103,7 +98,7 @@
         <br>
         <div valign="top" width="50%">
            <a href="https://github.com/dhunganabibek">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunganabibek&hide=css,scss,html,C,C++ &layout=compact&theme=radical" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunganabibek&hide=css,scss,html,C&layout=compact&theme=radical" />
             </a>
         </div>
     </div>
