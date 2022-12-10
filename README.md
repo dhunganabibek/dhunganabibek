@@ -5,15 +5,12 @@
 
 - 🔭 I’m currently working in **HCSS**
 
-- 👯 I’m looking to collaborate in **Openmarkethub**
-
 - 👨‍💻 All of my projects are available at [https://www.bibekdhungana.com/projects](https://www.bibekdhungana.com/projects)
 
 - 📫 Reach me at **Dhunganabibek2016@gmail.com**
 
 - 📄 Know about my experiences [https://www.bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
 
-- ⚡ Fun fact **I love coding.**
 
 
 <h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
