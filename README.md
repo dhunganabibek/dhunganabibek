@@ -96,14 +96,22 @@
 <div align="center">
     <div style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
         <div valign="top" width="50%">
-            <img src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&count_private=true&hide_border=true" align="center" />
+            <a href="https://github.com/dhunganabibek">
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&theme=radical" alt="Bibek's github stats" />
+            </a>
         </div>
         <br>
         <div valign="top" width="50%">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhunganabibek&" alt="dhunganabibek" />
+           <a href="https://github.com/dhunganabibek">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunganabibek&layout=compact&theme=radical" />
+            </a>
         </div>
     </div>
 </div>
+
+
+
+
             
 
 
