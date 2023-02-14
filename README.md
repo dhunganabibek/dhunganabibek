@@ -92,13 +92,13 @@
     <div style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
         <div valign="top" width="50%">
             <a href="https://github.com/dhunganabibek">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&theme=radical" alt="Bibek's github stats" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&theme=cobalt" alt="Bibek's github stats" />
             </a>
         </div>
         <br>
         <div valign="top" width="50%">
            <a href="https://github.com/dhunganabibek">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunganabibek&layout=compact&theme=radical" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunganabibek&langs_count=10&layout=compact&theme=cobalt" />
             </a>
         </div>
     </div>
