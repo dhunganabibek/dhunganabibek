@@ -3,7 +3,7 @@
 
 <h2 align="center">A passionate full-stack developer.</h2>
 
-- 🔭 I’m currently working in **HCSS**
+- 🔭 I’m currently working in **Precision Planting**
 
 - 👨‍💻 All of my projects are available at [https://www.bibekdhungana.com/projects](https://www.bibekdhungana.com/projects)
 
