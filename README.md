@@ -92,7 +92,7 @@
     <div style="display:flex; flex-wrap:wrap; justify-content:center;gap:10px">
         <div valign="top" width="50%">
             <a href="https://github.com/dhunganabibek">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&show_icons=true&theme=cobalt&count_private=true" alt="Bibek's github stats" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhunganabibek&count_private=true&show_icons=true&theme=cobalt&count_private=true" alt="Bibek's github stats" />
             </a>
         </div>
         <br>
