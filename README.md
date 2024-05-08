@@ -98,7 +98,7 @@
         <br>
         <div valign="top" width="50%">
            <a href="https://github.com/dhunganabibek">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhunganabibek&langs_count=12&layout=compact&theme=cobalt" />
+                <img align="center" src="https://github-readme-stats-bibek-dhunganas-projects.vercel.app/api/top-langs/?username=dhunganabibek&langs_count=12&layout=compact&theme=cobalt&count_private=true&include_all_commits=true&size_weight=0.5&count_weight=0.5" />
             </a>
         </div>
     </div>
