@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in **Precision Planting**
 
-- 👨‍💻 All of my projects are available at [https://www.bibekdhungana.com/projects](https://www.bibekdhungana.com/projects)
+- 👨‍💻 All of my projects are available at [https://www.bibekdhungana.com/projects](https://www.bibekdhungana.com)
 
 - 📫 Reach me at **Dhunganabibek2016@gmail.com**
 
