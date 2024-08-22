@@ -12,7 +12,6 @@
 
 - 📄 Know about my experiences [https://www.bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
 
-
 <h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
 <div align="center">
     <a href="https://github.com/dhunganabibek" target="_blank">
