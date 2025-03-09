@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=Hello%2C+I+am+Bibek+Dhungana)](https://git.io/typing-svg)
 
-<h2>Passionate Full Stack Developer </h2>
-<h4 align="center"> Problem solver with a strong background in mathematics, physics, and coding, continuously learning and innovating to drive meaningful change.</h4>
+<h2 align="center">Passionate Full Stack Developer </h2>
+<h4 align="center"> Problem solver with a strong background in mathematics, physics, and coding.</h4>
 
 - 🔭 I’m currently working in **St. Jude Children's Research Hospital - ALSAC**
 
@@ -11,6 +11,17 @@
 - 📫 Reach me at **Dhunganabibek2016@gmail.com**
 
 - 📄 Know about my experiences [https://www.bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
+
+<h2 align="center">About Me </h2>
+
+Hey there! I'm a coding wizard who turns coffee into code and bugs into features. With three years of experience, I've mastered the art of full-stack development, from stunning frontends to crafting rock-solid backends and databases.
+
+Armed with a Bachelor's Degree in Computer Science, I've embarked on a quest to squash the trickiest bugs and optimize the slowest APIs. My secret weapons? React, Node/dotnet, and a sprinkle of AWS magic. I'm also a Docker and Kubernetes enthusiast, and currently diving into the mysterious world of Rust.
+
+When I'm not busy coding, you might find me battling it out on the tennis court or exploring the latest tech trends. My dream is to become a security guru, with SHA-256 being my favorite algorithm.
+
+I thrive in collaborative environments where my problem-solving skills and innovative spirit can shine. Let's connect and see how we can create something extraordinary together.
+
 
 <h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
 <div align="center">
