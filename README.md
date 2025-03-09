@@ -1,8 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=Hello%2C+I+am+Bibek+Dhungana)](https://git.io/typing-svg)
 
-<h2 align="center"> A Passionate Full Stack Developer</h2>
-<h4 align="center"> Continuously Learning & Innovating to Drive Meaningful Change</h4>
+<h2 align="center"> Passionate Full Stack Developer with a strong background in mathematics, physics, and coding, dedicated to continuous learning and innovation to drive meaningful changer</h2>
 
 - 🔭 I’m currently working in **St. Jude Children's Research Hospital - ALSAC**
 
