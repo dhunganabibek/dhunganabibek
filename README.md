@@ -20,7 +20,7 @@ I've fixed tricky bugs, optimized sluggish APIs, and deployed scalable apps usin
 
 But that's not all — I'm also passionate about data science. Whether it's transforming raw data into actionable insights, building predictive models, or visualizing trends, I love using data to tell compelling stories and solve real-world problems.
 
-When I’m not coding, I’m playing tennis or checking out the latest tech trends. My goal is to ace security and unravel the mysteries of machine learning — from cool algorithms to the wonders of deep learning. And yes, SHA-256 is still my favorite cryptographic alogirithm.
+When I’m not coding, I’m playing tennis or checking out the latest tech trends. My goal is to ace security and unravel the mysteries of machine learning — from algorithms to the wonders of deep learning. And yes, SHA-256 is still my favorite cryptographic algorithm.
 
 I thrive in collaborative environments where problem-solving, creativity, and curiosity come together. Let’s connect and build something extraordinary!
 
