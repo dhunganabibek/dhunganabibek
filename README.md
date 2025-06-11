@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&width=800&height=100&lines=Hello%2C+I+am+Bibek+Dhungana)](https://git.io/typing-svg)
 
 <h2 align="center">Full Stack Developer | Data Scientist | Turning ideas into scalable solutions </h2>
-<h4 align="center"> Problem solver with a strong background in mathematics, physics, and coding. I turn bugs into features and data into insights.</h4>
 
 - 🔭 I’m currently working in **St. Jude Children's Research Hospital - ALSAC**
 
