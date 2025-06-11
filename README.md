@@ -14,13 +14,15 @@
 
 <h2 align="center">About Me </h2>
 
-Hey there! I'm a coding wizard who turns coffee into code and bugs into features. With three years of experience, I've mastered the art of full-stack development, from stunning frontends to crafting rock-solid backends and databases.
+I'm a coding wizard who turns coffee into code, bugs into features, and data into insights. I've mastered the art of full-stack development and data science — from building stunning frontends and rock-solid backends to crunching numbers and uncovering patterns that drive smarter decisions.
 
-Armed with a Bachelor's Degree in Computer Science, I've embarked on a quest to squash the trickiest bugs and optimize the slowest APIs. My secret weapons? React, Node/dotnet, and a sprinkle of AWS magic. I'm also a Docker and Kubernetes enthusiast, and currently diving into the mysterious world of Rust.
+I've fixed tricky bugs, optimized sluggish APIs, and deployed scalable apps using React, Node/.NET, and a sprinkle of AWS magic. I'm also a Docker and Kubernetes enthusiast, and currently diving into the mysterious world of Rust.
 
-When I'm not busy coding, you might find me battling it out on the tennis court or exploring the latest tech trends. My dream is to become a security guru, with SHA-256 being my favorite algorithm.
+But that's not all — I'm also passionate about data science. Whether it's transforming raw data into actionable insights, building predictive models, or visualizing trends, I love using data to tell compelling stories and solve real-world problems.
 
-I thrive in collaborative environments where my problem-solving skills and innovative spirit can shine. Let's connect and see how we can create something extraordinary together.
+When I’m not coding, I’m playing tennis or checking out the latest tech trends. My goal is to ace security and unravel the mysteries of machine learning — from cool algorithms to the wonders of deep learning. And yes, SHA-256 is still my favorite cryptographic alogirithm.
+
+I thrive in collaborative environments where problem-solving, creativity, and curiosity come together. Let’s connect and build something extraordinary!
 
 
 <h2 align="center" style="color:#36BCF7FF">Connect with me:</h2>
