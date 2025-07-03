@@ -85,7 +85,6 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/><br/>Git</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40"/><br/>Linux</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/><br/>SQL</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="40"/><br/>Redis</td>
   </tr>
 </table>
 </div>
