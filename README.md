@@ -51,13 +51,11 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
 <table>
   <tr>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/><br/>React</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" height="40"/><br/>Next.js</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/><br/>JavaScript</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="40"/><br/>Redux</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40"/><br/>Tailwind CSS</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/><br/>HTML5</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/><br/>CSS3</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40"/><br/>Tailwind</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/><br/>HTML</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/><br/>CSS</td>
   </tr>
 </table>
 </div>
@@ -66,12 +64,11 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
 <h3> 🧠 Backend</h3>
 <table>
   <tr>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/><br/>Python</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" height="40"/><br/>Express.js</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="40"/><br/>.NET</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40"/><br/>Java</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/><br/>C#</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/><br/>Python</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="40"/><br/>Spring</td>
   </tr>
 </table>
@@ -87,8 +84,7 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="40"/><br/>Terraform</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/><br/>Git</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40"/><br/>Linux</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/><br/>MySQL</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="40"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/><br/>SQL</td>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="40"/><br/>Redis</td>
   </tr>
 </table>
