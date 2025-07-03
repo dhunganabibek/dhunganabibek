@@ -16,6 +16,7 @@ I'm a passionate developer who transforms ideas into robust, scalable solutions 
 - 📬 Email: [Dhunganabibek2016@gmail.com](mailto:Dhunganabibek2016@gmail.com)
 - 🌐 Portfolio: [bibekdhungana.com](https://www.bibekdhungana.com)
 - 📄 Resume: [bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
+- 📜 Certification: [Verified Certifications](https://www.credly.com/users/dhunganabibek/badges#credly)
 
 <!-- About me-->
 <h2 align="center">👋 About Me</h2>
