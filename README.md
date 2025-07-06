@@ -95,7 +95,7 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/><br/>NumPy</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br/>Pandas</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/><br/>Scikit-learn</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40"/><br/>Scikit-learn</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/><br/>PyTorch</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Scipy_logo.svg/512px-Scipy_logo.svg.png" height="40"/><br/>SciPy</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/><br/>Jupyter</td>
