@@ -50,12 +50,12 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
 <h3>⚛️ Frontend</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40"/><br/>React</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40"/><br/>JavaScript</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40"/><br/>TypeScript</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40"/><br/>Tailwind</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40"/><br/>HTML</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40"/><br/>CSS</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" width="40"/><br/>React</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="40" width="40"/><br/>JavaScript</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="40" width="40"/><br/>TypeScript</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" height="40" width="40"/><br/>Tailwind</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="40" width="40"/><br/>HTML</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="40" width="40"/><br/>CSS</td>
   </tr>
 </table>
 </div>
@@ -64,12 +64,12 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
 <h3> 🧠 Backend</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40"/><br/>Python</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40"/><br/>Node.js</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="40"/><br/>.NET</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40"/><br/>Java</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40"/><br/>C#</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="40"/><br/>Spring</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" width="40"/><br/>Python</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" height="40" width="40"/><br/>Node.js</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="40" width="40"/><br/>.NET</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="40" width="40"/><br/>Java</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="40" width="40"/><br/>C#</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" height="40" width="40"/><br/>Spring</td>
   </tr>
 </table>
 </div>
@@ -78,13 +78,13 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
 <h3>⚙️ DevOps & Databases</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40"/><br/>AWS</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40"/><br/>Docker</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="40"/><br/>Kubernetes</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="40"/><br/>Terraform</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40"/><br/>Git</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40"/><br/>Linux</td>
-    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40"/><br/>SQL</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40" width="40"/><br/>AWS</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" height="40" width="40"/><br/>Docker</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" height="40" width="40"/><br/>Kubernetes</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" height="40" width="40"/><br/>Terraform</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" width="40"/><br/>Git</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="40" width="40"/><br/>Linux</td>
+    <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="40" width="40"/><br/>SQL</td>
   </tr>
 </table>
 </div>
@@ -93,12 +93,12 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
 <h3>🤖 Machine Learning & AI</h3>
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/><br/>NumPy</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/><br/>Pandas</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40"/><br/>NumPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40"/><br/>Pandas</td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40"/><br/>Scikit-learn</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/><br/>PyTorch</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Scipy_logo.svg/512px-Scipy_logo.svg.png" height="40"/><br/>SciPy</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/><br/>Jupyter</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" width="40"/><br/>PyTorch</td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Scipy_logo.svg/512px-Scipy_logo.svg.png" height="40" width="40"/><br/>SciPy</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40"/><br/>Jupyter</td>
   </tr>
 </table>
 </div>
