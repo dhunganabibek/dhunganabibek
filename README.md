@@ -13,7 +13,7 @@
 I'm a passionate developer who transforms ideas into robust, scalable solutions through clean code and data-driven decisions. Whether it's designing modern frontends, engineering performant backends, or extracting insights from data, I bring full-stack versatility with a problem-solving mindset.
 
 - 💼 Ph.D. in Computer Science, **Vanderbilt University** — Artificial Intelligence, Cloud Computing
-- 📬 Email: [Dhunganabibek2016@gmail.com](mailto:Dhunganabibek2016@gmail.com)
+- 📬 Email: [Dhunganabibek2015@gmail.com](mailto:Dhunganabibek2016@gmail.com)
 - 🌐 Portfolio: [bibekdhungana.com](https://www.bibekdhungana.com)
 - 📄 Resume: [bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
 - 📜 Certification: [Verified Certifications](https://www.credly.com/users/dhunganabibek/badges#credly)
