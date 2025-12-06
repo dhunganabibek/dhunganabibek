@@ -12,7 +12,7 @@
 
 I'm a passionate developer who transforms ideas into robust, scalable solutions through clean code and data-driven decisions. Whether it's designing modern frontends, engineering performant backends, or extracting insights from data, I bring full-stack versatility with a problem-solving mindset.
 
-- 💼 Ph.D. in Computer Science, **Vanderbilt University** — Artificial Intelligence, Cloud Computing
+- 💼 Ph.D. in Computer Science, **Vanderbilt University**
 - 📬 Email: [Dhunganabibek2015@gmail.com](mailto:Dhunganabibek2016@gmail.com)
 - 🌐 Portfolio: [bibekdhungana.com](https://www.bibekdhungana.com)
 - 📄 Resume: [bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
@@ -21,11 +21,13 @@ I'm a passionate developer who transforms ideas into robust, scalable solutions 
 <!-- About me-->
 <h2 align="center">👋 About Me</h2>
 
-I'm a developer who turns coffee into code, bugs into features, and data into insight. From crafting engaging UIs with React and Next.js to building scalable APIs with Node.js or .NET, I embrace full-stack problem-solving with creativity and precision.
+I'm a passionate developer who transforms ideas into robust, scalable solutions through clean code and data-driven decisions. Whether it's designing modern frontends, engineering performant backends, or extracting insights from data, I bring full-stack versatility with a problem-solving mindset.
 
-My passion also extends to data science—cleaning data, building ML models, and using Python tools like Pandas, Scikit-learn, and PyTorch to turn raw data into smart decisions.
+My passion also extends to data science—cleaning data, building ML models, and using Python tools like Pandas, Scikit-learn, and PyTorch to turn raw data into smart decisions. Whether it's transforming raw data into actionable insights, building predictive models, or visualizing trends, I love using data to tell compelling stories and solve real-world problems.
 
 Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and systems design. My mission? To build secure, intelligent, and impactful software that scales.
+
+I thrive in collaborative environments where problem-solving, creativity, and curiosity come together. Let's connect and build something extraordinary!
 
 <!-- Connnect with me -->
 <div align="center">
