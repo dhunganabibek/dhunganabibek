@@ -117,12 +117,6 @@ I thrive in collaborative environments where problem-solving, creativity, and cu
 <br/>
 
 <a href="https://github.com/dhunganabibek">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhunganabibek&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&currStreakLabel=00D4FF" />
-</a>
-
-<br/>
-
-<a href="https://github.com/dhunganabibek">
   <img src="https://github-readme-stats-bibek-dhunganas-projects.vercel.app/api/top-langs/?username=dhunganabibek&langs_count=10&layout=compact&theme=cobalt&count_private=true" />
 </a>
 
