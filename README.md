@@ -1,11 +1,11 @@
 <!-- Top Section -->
-<h1 align="center">🚀 Bibek Dhungana</h1>
+<h1 align="center">Bibek Dhungana</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Open+Source+Contributor;Data+Scientist;AI+Enthusiast" alt="Typing SVG" />
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | 📊 Data Scientist | 💡 Turning Ideas Into Scalable Solutions</h3>
+<h3 align="center"> Full Stack Developer | 📊 Data Scientist | 💡 Turning Ideas Into Scalable Solutions</h3>
 
 <!-- Summary -->
 <h2 align="center">🔍 Summary</h2>
