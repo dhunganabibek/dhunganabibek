@@ -1,14 +1,10 @@
 <!-- Top Section -->
 <h1 align="center">Bibek Dhungana</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;Open+Source+Contributor;Data+Scientist;AI+Enthusiast" alt="Typing SVG" />
-</p>
-
-<h3 align="center"> Full Stack Developer | 📊 Data Scientist | 💡 Turning Ideas Into Scalable Solutions</h3>
+<h3 align="center"> Full Stack Developer |  Data Scientist |  Turning Ideas Into Scalable Solutions</h3>
 
 <!-- Summary -->
-<h2 align="center">🔍 Summary</h2>
+<h2 align="center"> Summary</h2>
 
 I'm a passionate developer who transforms ideas into robust, scalable solutions through clean code and data-driven decisions. Whether it's designing modern frontends, engineering performant backends, or extracting insights from data, I bring full-stack versatility with a problem-solving mindset.
 
@@ -19,19 +15,17 @@ I'm a passionate developer who transforms ideas into robust, scalable solutions 
 - 📜 Certification: [Verified Certifications](https://www.credly.com/users/dhunganabibek/badges#credly)
 
 <!-- About me-->
-<h2 align="center">👋 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 I'm a passionate developer who transforms ideas into robust, scalable solutions through clean code and data-driven decisions. Whether it's designing modern frontends, engineering performant backends, or extracting insights from data, I bring full-stack versatility with a problem-solving mindset.
 
 My passion also extends to data science—cleaning data, building ML models, and using Python tools like Pandas, Scikit-learn, and PyTorch to turn raw data into smart decisions. Whether it's transforming raw data into actionable insights, building predictive models, or visualizing trends, I love using data to tell compelling stories and solve real-world problems.
 
-Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and systems design. My mission? To build secure, intelligent, and impactful software that scales.
-
-I thrive in collaborative environments where problem-solving, creativity, and curiosity come together. Let's connect and build something extraordinary!
+Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and systems design. My mission? To build secure, intelligent, and impactful software that scales. I thrive in collaborative environments where problem-solving, creativity, and curiosity come together. Let's connect and build something extraordinary!
 
 <!-- Connnect with me -->
 <div align="center">
-<h2>📫 Connect With Me</h2>
+<h2> Connect With Me</h2>
 <p>
   <a href="https://github.com/dhunganabibek" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
@@ -48,8 +42,8 @@ I thrive in collaborative environments where problem-solving, creativity, and cu
 <!-- Technologies -->
 <br/>
 <div align ="center">
-<h2>🛠️ Skills & Technologies</h2>
-<h3>⚛️ Frontend</h3>
+<h2>Skills & Technologies</h2>
+<h3> Frontend</h3>
 <table>
   <tr>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="40" width="40"/><br/>React</td>
@@ -63,7 +57,7 @@ I thrive in collaborative environments where problem-solving, creativity, and cu
 </div>
 
 <div align="center">
-<h3> 🧠 Backend</h3>
+<h3>  Backend</h3>
 <table>
   <tr>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="40" width="40"/><br/>Python</td>
@@ -77,7 +71,7 @@ I thrive in collaborative environments where problem-solving, creativity, and cu
 </div>
 
 <div align="center">
-<h3>⚙️ DevOps & Databases</h3>
+<h3> DevOps & Databases</h3>
 <table>
   <tr>
     <td align="center"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" height="40" width="40"/><br/>AWS</td>
@@ -92,7 +86,7 @@ I thrive in collaborative environments where problem-solving, creativity, and cu
 </div>
 
 <div align="center">
-<h3>🤖 Machine Learning & AI</h3>
+<h3> Machine Learning & AI</h3>
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40"/><br/>NumPy</td>
@@ -108,7 +102,7 @@ I thrive in collaborative environments where problem-solving, creativity, and cu
 <!-- GitHub profile -->
 <br/>
 <div align="center">
-<h2> 📊 GitHub Stats </h2>
+<h2>  GitHub Stats </h2>
 
 <a href="https://github.com/dhunganabibek">
   <img src="https://github-readme-stats-bibek-dhunganas-projects.vercel.app/api?username=dhunganabibek&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" />
