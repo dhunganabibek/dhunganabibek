@@ -9,10 +9,10 @@
 I am a researcher focused on Artificial Intelligence, Machine Learning, and Full Stack Development. I specialize in designing intelligent systems, building sophisticated predictive models, and extracting actionable insights from complex datasets. While my core expertise is in AI, my full-stack background allows me to seamlessly deploy machine learning models into robust, scalable production environments.
 </p>
 
-- 💼 MS & Ph.D. in Computer Science, **Vanderbilt University**
-- 🌐 Portfolio: [bibekdhungana.com](https://www.bibekdhungana.com)
-- 📄 Resume: [bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
-- 📜 Certification: [Verified Certifications](https://www.credly.com/users/dhunganabibek/badges#credly)
+-  MS & Ph.D. in Computer Science, **Vanderbilt University**
+-  Portfolio: [bibekdhungana.com](https://www.bibekdhungana.com)
+-  Resume: [bibekdhungana.com/resume](https://www.bibekdhungana.com/resume)
+-  Certification: [Verified Certifications](https://www.credly.com/users/dhunganabibek/badges#credly)
 
 <!-- About me-->
 <h2 align="center"> About Me</h2>
