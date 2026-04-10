@@ -3,8 +3,6 @@
 
 <h3 align="center">AI Researcher | Machine Learning Engineer | Full Stack Engineer</h3>
 
-<!-- Summary -->
-<h2 align="center"> Summary</h2>
 <p>
 I am a researcher focused on Artificial Intelligence, Machine Learning, and Full Stack Development. I specialize in designing intelligent systems, building sophisticated predictive models, and extracting actionable insights from complex datasets. While my core expertise is in AI, my full-stack background allows me to seamlessly deploy machine learning models into robust, scalable production environments.
 </p>
@@ -19,9 +17,9 @@ I am a researcher focused on Artificial Intelligence, Machine Learning, and Full
 
 I'm a passionate engineer who transforms ideas into robust, scalable solutions through clean code and data-driven decisions. Whether it's designing modern frontends, engineering performant backends, or extracting insights from data, I bring full-stack versatility with a problem-solving mindset.
 
-My passion also extends to data science—cleaning data, building ML models, and using Python tools like Pandas, Scikit-learn, and PyTorch to turn raw data into smart decisions. Whether it's transforming raw data into actionable insights, building predictive models, or visualizing trends, I love using data to tell compelling stories and solve real-world problems.
+My passion also extends to data science: cleaning data, building ML models, and using Python tools like Pandas, Scikit-learn, and PyTorch to turn raw data into smart decisions. Whether it's transforming raw data into actionable insights, building predictive models, or visualizing trends, I love using data to tell compelling stories and solve real-world problems.
 
-Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and systems design. My mission? To build secure, intelligent, and impactful software that scales. I thrive in collaborative environments where problem-solving, creativity, and curiosity come together. Let's connect and build something extraordinary!
+Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and systems design. I build secure, intelligent, and impactful software that scales. I thrive in collaborative environments where problem-solving, creativity, and curiosity come together. Let's connect and build something extraordinary!
 
 <!-- Connnect with me -->
 <div align="center">
