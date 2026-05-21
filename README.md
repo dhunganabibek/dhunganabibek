@@ -123,7 +123,7 @@ Outside of work, I enjoy tennis and exploring the latest in AI, DevOps, and syst
 <br/>
 
 <a href="https://github.com/dhunganabibek">
-  <img src="https://github-readme-stats-bibek-dhunganas-projects.vercel.app/api/top-langs/?username=dhunganabibek&langs_count=10&layout=compact&theme=cobalt&count_private=true&hide=tex,html,css, ejs" />
+  <img src="https://github-readme-stats-bibek-dhunganas-projects.vercel.app/api/top-langs/?username=dhunganabibek&langs_count=10&layout=compact&theme=cobalt&count_private=true&hide=tex,html,css,ejs" />
 </a>
 
 </div>
