@@ -49,17 +49,14 @@ serving millions of weekly requests. My work spans machine learning, data engine
 <!-- Technologies -->
 ## Skills &amp; Technologies
 
-**Machine Learning &amp; AI** &nbsp; PyTorch · Hugging Face · scikit-learn · LLMs · Generative AI · RAG · LangGraph · MLflow · NLP
-
-**Data Engineering &amp; Big Data** &nbsp; Apache Spark · Kafka · Airflow · AWS Glue · ETL/ELT · Pandas · NumPy
-
-**Cloud &amp; MLOps** &nbsp; AWS (SageMaker, Glue, Lambda) · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD
-
-**Databases &amp; Warehousing** &nbsp; PostgreSQL · Snowflake · Redshift · BigQuery · MongoDB · DynamoDB · Pinecone
-
-**Languages** &nbsp; Python · SQL · TypeScript · Rust · Java · C#
-
-**Web &amp; Frameworks** &nbsp; React · Next.js · Node.js · FastAPI · .NET Core · Spring Boot
+| Category | Technologies |
+| --- | --- |
+| **Machine Learning &amp; AI** | PyTorch · Hugging Face · scikit-learn · LLMs · Generative AI · RAG · LangGraph · MLflow · NLP |
+| **Data Engineering &amp; Big Data** | Apache Spark · Kafka · Airflow · AWS Glue · ETL/ELT · Pandas · NumPy |
+| **Cloud &amp; MLOps** | AWS (SageMaker, Glue, Lambda) · Docker · Kubernetes · Terraform · GitHub Actions · CI/CD |
+| **Databases &amp; Warehousing** | PostgreSQL · Snowflake · Redshift · BigQuery · MongoDB · DynamoDB · Pinecone |
+| **Languages** | Python · SQL · TypeScript · Rust · Java · C# |
+| **Web &amp; Frameworks** | React · Next.js · Node.js · FastAPI · .NET Core · Spring Boot |
 
 <!-- GitHub Stats -->
 <br/>
