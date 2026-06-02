@@ -16,7 +16,7 @@
   </li>
   <li>
     <b>Certifications:</b>
-    <a href="https://www.credly.com/users/dhunganabibek/badges#credly">Credly Links</a>
+    <a href="https://www.credly.com/users/dhunganabibek/badges#credly">credly.com/users/dhunganabibek/badges</a>
   </li>
   <li>
     <b>LinkedIn:</b>
