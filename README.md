@@ -1,27 +1,28 @@
 <h1>Hi, I'm Bibek Dhungana</h1>
 
 <p>
-  <b>Ph.D. student in Computer Science at Vanderbilt University</b><br />
+  <b> I am currently a Ph.D. student in Computer Science at Vanderbilt University</b><br />
   I work at the intersection of machine learning, data engineering, and cloud-native software systems.
 </p>
 
-<p>
-  <a href="https://www.bibekdhungana.com">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.bibekdhungana.com/resume">
-    <img src="https://img.shields.io/badge/Resume-1E3A8A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://www.credly.com/users/dhunganabibek/badges#credly">
-    <img src="https://img.shields.io/badge/Certifications-334155?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Certifications" />
-  </a>
-  <a href="https://github.com/dhunganabibek">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/dhunganabibek">
-    <img src="https://img.shields.io/badge/LinkedIn-075985?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<ul>
+  <li>
+    <b>Portfolio:</b>
+    <a href="https://www.bibekdhungana.com">bibekdhungana.com</a>
+  </li>
+  <li>
+    <b>Resume:</b>
+    <a href="https://www.bibekdhungana.com/resume">bibekdhungana.com/resume</a>
+  </li>
+  <li>
+    <b>Certifications:</b>
+    <a href="https://www.credly.com/users/dhunganabibek/badges#credly">Credly Links</a>
+  </li>
+  <li>
+    <b>LinkedIn:</b>
+    <a href="https://linkedin.com/in/dhunganabibek">linkedin.com/in/dhunganabibek</a>
+  </li>
+</ul>
 
 ---
 
@@ -134,7 +135,7 @@ My focus is building reliable systems that connect research ideas to production 
 ## Current Focus
 
 ```txt
-LLM systems      → retrieval, evaluation, agents, RAG pipelines
+LLM systems       → retrieval, evaluation, agents, RAG pipelines
 ML infrastructure → model deployment, monitoring, scalable training workflows
-Data systems     → streaming, lakehouse pipelines, orchestration
-Cloud platforms  → AWS-native production architecture
+Data systems      → streaming, lakehouse pipelines, orchestration
+Cloud platforms   → AWS-native production architecture
