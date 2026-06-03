@@ -1,9 +1,8 @@
-<h1>Hi, I'm Bibek Dhungana</h1>
+# Bibek Dhungana
 
-<p>
-  <b> I am currently a Ph.D. student in Computer Science at Vanderbilt University</b><br />
-  I work at the intersection of machine learning, data engineering, and cloud-native software systems.
-</p>
+**Ph.D. Student in Computer Science · Vanderbilt University**
+
+I work at the intersection of machine learning, data engineering, and cloud-native software systems.
 
 <ul>
   <li>
@@ -24,118 +23,46 @@
   </li>
 </ul>
 
----
-
 ## What I Build
 
-Over 4+ years of industry experience, I have shipped:
+Four years of industry experience shipping systems at scale:
 
-- AWS Glue ETL workflows reconciling **11M+ records**
-- Kafka streaming pipelines operating at **99.9% uptime**
-- Full-stack platforms serving **millions of weekly requests**
-- LLM/RAG systems for semantic search, retrieval, and research automation
+- **ETL workflows** reconciling **11M+ records** on AWS Glue
+- **Kafka streaming pipelines** sustained at **99.9% uptime**
+- **Full-stack platforms** serving **millions of requests weekly**
+- **LLM & retrieval systems** for semantic search and research automation
 
-My focus is building reliable systems that connect research ideas to production deployment.
+## Selected Projects
 
----
+- **[ResearchTeam](https://github.com/research-team-app/ResearchTeam)**: LLM platform matching researchers to **80,000+** federal grants via dense semantic retrieval (**MRR 0.74 vs. 0.54**).
 
-## Featured Projects
+- **[StreamCab](https://github.com/dhunganabibek/StreamCab)**: Real-time fare-prediction pipeline on Kafka and Spark; XGBoost reaches **3.42% MAPE** (**78%** lower error).
 
-<table>
-  <tr>
-    <td width="180px">
-      <b>
-        <a href="https://github.com/research-team-app/ResearchTeam">ResearchTeam</a>
-      </b>
-    </td>
-    <td>
-      LLM platform for grant discovery and researcher matching across <b>80,000+ federal grants</b>.
-      Semantic retrieval with Cohere and S3 Vectors outperformed BM25/TF-IDF with
-      <b>MRR 0.74 vs. 0.54</b> and <b>+47% nDCG@5</b>.
-    </td>
-  </tr>
-  <tr>
-    <td width="180px">
-      <b>
-        <a href="https://github.com/dhunganabibek/StreamCab">StreamCab</a>
-      </b>
-    </td>
-    <td>
-      Kafka + Spark Structured Streaming pipeline over NYC taxi trips. Built an XGBoost fare
-      predictor with <b>3.42% MAPE</b>, cutting prediction error by <b>78%</b> over baseline.
-    </td>
-  </tr>
-  <tr>
-    <td width="180px">
-      <b>
-        <a href="https://github.com/dhunganabibek/RAG-the-philosophical-computer">RAG: Philosophical Computer</a>
-      </b>
-    </td>
-    <td>
-      Fully local RAG system using LangChain, ChromaDB, and Ollama with zero external API calls.
-    </td>
-  </tr>
-  <tr>
-    <td width="180px">
-      <b>
-        <a href="https://github.com/dhunganabibek/fashion-mnist-classifier">Apparel Classifier</a>
-      </b>
-    </td>
-    <td>
-      Fashion-MNIST classifier served through FastAPI + React with live camera inference.
-    </td>
-  </tr>
-</table>
+- **[Quantum Adaptive Self-Attention (QASA)](https://github.com/dhunganabibek/quantum-adaptive-self-attention)**: Hybrid quantum-classical Transformer (PyTorch, PennyLane); matches a classical baseline (**R² 0.88 vs. 0.90**) with **~6% fewer parameters**.
 
----
+- **[RAG: The Philosophical Computer](https://github.com/dhunganabibek/RAG-the-philosophical-computer)**: Fully local retrieval-augmented generation (LangChain, ChromaDB, Ollama) with zero external API calls.
 
-## Tech Stack
+- **[Apparel Classifier](https://github.com/dhunganabibek/fashion-mnist-classifier)**: Fashion-MNIST model served via FastAPI and React with live camera inference.
 
-<table>
-  <tr>
-    <td><b>ML / AI</b></td>
-    <td>
-      PyTorch · Hugging Face · scikit-learn · LLMs · RAG · LangGraph · MLflow · NLP
-    </td>
-  </tr>
-  <tr>
-    <td><b>Data Engineering</b></td>
-    <td>
-      Apache Spark · Kafka · Airflow · AWS Glue · ETL/ELT · Pandas · NumPy
-    </td>
-  </tr>
-  <tr>
-    <td><b>Cloud / MLOps</b></td>
-    <td>
-      AWS SageMaker · AWS Glue · AWS Lambda · Docker · Kubernetes · Terraform · GitHub Actions
-    </td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      PostgreSQL · Snowflake · Redshift · BigQuery · MongoDB · DynamoDB · Pinecone
-    </td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      Python · SQL · TypeScript · Rust · Java · C#
-    </td>
-  </tr>
-  <tr>
-    <td><b>Web</b></td>
-    <td>
-      React · Next.js · Node.js · FastAPI · .NET Core · Spring Boot
-    </td>
-  </tr>
-</table>
+## Technical Focus
 
----
+| Area | Tools |
+| :--- | :--- |
+| **ML / AI** | `PyTorch` `Hugging Face` `scikit-learn` `LLMs` `RAG` `LangGraph` `MLflow` |
+| **Data Engineering** | `Spark` `Kafka` `Airflow` `AWS Glue` `Pandas` `NumPy` |
+| **Cloud / MLOps** | `SageMaker` `Lambda` `Docker` `Kubernetes` `Terraform` `GitHub Actions` |
+| **Databases** | `PostgreSQL` `Snowflake` `Redshift` `BigQuery` `MongoDB` `DynamoDB` `Pinecone` |
+| **Languages** | `Python` `SQL` `TypeScript` `Rust` `Java` `C#` |
+| **Web** | `React` `Next.js` `Node.js` `FastAPI` `.NET Core` `Spring Boot` |
 
-## Current Focus
+## GitHub Stats
 
-```txt
-LLM systems       → retrieval, evaluation, agents, RAG pipelines
-ML infrastructure → model deployment, monitoring, scalable training workflows
-Data systems      → streaming, lakehouse pipelines, orchestration
-Cloud platforms   → AWS-native production architecture
+<p align="center">
+  <a href="https://github.com/dhunganabibek">
+    <img height="170" src="https://github-readme-stats-bibek-dhunganas-projects.vercel.app/api?username=dhunganabibek&count_private=true&show_icons=true&theme=cobalt&include_all_commits=true" alt="Bibek's GitHub stats" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/dhunganabibek">
+    <img height="170" src="https://github-readme-stats-bibek-dhunganas-projects.vercel.app/api/top-langs/?username=dhunganabibek&langs_count=10&layout=compact&theme=cobalt&count_private=true&hide=tex" alt="Top languages" />
+  </a>
+</p>
