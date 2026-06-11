@@ -1,7 +1,6 @@
-# Bibek Dhungana
+## Bibek Dhungana
 
-**Ph.D. Student in Computer Science · Vanderbilt University**
-
+**Ph.D. Student in Computer Science · Vanderbilt University**  
 I work at the intersection of machine learning, data engineering, and cloud-native software systems.
 
 <ul>
@@ -25,8 +24,7 @@ I work at the intersection of machine learning, data engineering, and cloud-nati
 
 ## What I Build
 
-Four years of industry experience shipping systems at scale:
-
+Four years of industry experience shipping systems at scale:  
 - **ETL workflows** reconciling **11M+ records** on AWS Glue
 - **Kafka streaming pipelines** sustained at **99.9% uptime**
 - **Full-stack platforms** serving **millions of requests weekly**
